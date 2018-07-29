@@ -1,0 +1,3 @@
+[submodule "MyShellScripts"]
+	path = MyShellScripts
+	url = https://github.com/ZackLaskar/MyShellScripts.git
